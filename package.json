@@ -1,14 +1,14 @@
 {
-  "name": "businesscard",
+  "name": "rameshl",
   "version": "1.0.0",
-  "description": "A personal card for Vali Shah",
+  "description": "A personal card for Ramesh Lingappa",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valishah/npx-business-card.git"
+    "url": "git+https://github.com/ramesh-dev/npx-business-card.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Vali Shah <vali.shah7@gmail.com>",
+  "author": "Ramesh Lingappa<rameshmind.90@gmail.com>",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -37,8 +37,8 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/valishah/npx-business-card/issues"
+    "url": "https://github.com/ramesh-dev/npx-business-card/issues"
   },
-  "homepage": "https://github.com/valishah/npx-business-card#readme",
+  "homepage": "https://github.com/ramesh-dev/npx-business-card#readme",
   "dependencies": {}
 }
